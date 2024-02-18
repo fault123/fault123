@@ -21,11 +21,11 @@
  
  **Languages and Frameworks:**
 <p align="left">
-  <code><img src="https://img.shields.io/badge/Java-sec-brightgreen" alt="java" width="40" height="20"/></code>&nbsp;
-  <code><img src="https://img.shields.io/badge/PHP-sec-purple" alt="php" width="40" height="20" /></code>&nbsp;
-  <code><img src="https://img.shields.io/badge/Python-sec-orange" alt="python" width="40" height="20" /></code>&nbsp;
-  <code><img src="https://img.shields.io/badge/Go-sec-blue" alt="Go" width="40" height="20" /></code>&nbsp;
-  <code><img src="https://img.shields.io/badge/JavaScript-sec-yellow" alt="javascript" width="40" height="20" /></code>&nbsp;
+  <code><img src="https://img.shields.io/badge/Java-sec-brightgreen" alt="java" width="60" height="20"/></code>&nbsp;
+  <code><img src="https://img.shields.io/badge/PHP-sec-purple" alt="php" width="60" height="20" /></code>&nbsp;
+  <code><img src="https://img.shields.io/badge/Python-sec-orange" alt="python" width="60" height="20" /></code>&nbsp;
+  <code><img src="https://img.shields.io/badge/Go-sec-blue" alt="Go" width="60" height="20" /></code>&nbsp;
+  <code><img src="https://img.shields.io/badge/JavaScript-sec-yellow" alt="javascript" width="60" height="20" /></code>&nbsp;
    </p>
 
 
